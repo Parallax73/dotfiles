@@ -1,0 +1,48 @@
+* {
+    font-family: "Zed Mono Nerd Font", monospace;
+    border-radius: 12px;
+}
+
+window {
+    margin: 0px;
+    border: none;
+    background-color: rgba(59, 66, 82, 0.85);
+}
+
+#input {
+    margin: 5px;
+    border: none;
+    color: #ECEFF4; 
+    background-color: #434C5E; 
+    border-radius: 10px;
+}
+
+#inner-box {
+    margin: 5px;
+    border: none;
+    background-color: rgba(59, 66, 82, 0.85); 
+    border-radius: 10px;
+}
+
+#outer-box {
+    margin: 5px;
+    border: none;
+    background-color: rgba(59, 66, 82, 0.85); 
+    border-radius: 12px;
+}
+
+#scroll {
+    margin: 0px;
+    border: none;
+}
+
+#text {
+    margin: 5px;
+    border: none;
+    color: #ECEFF4; 
+}
+
+#entry:selected {
+    background-color: #4C566A; 
+    border-radius: 10px;
+}
